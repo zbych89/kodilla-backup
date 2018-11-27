@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kodilla.Kodilla18XITestSuite" tests="9" skipped="0" failures="0" errors="0" timestamp="2018-11-27T19:11:44" hostname="monika-SVF1521J2EW" time="0.069">
+  <properties/>
+  <testcase name="testAverageJava8" classname="com.kodilla.Kodilla18XITestSuite" time="0.033"/>
+  <testcase name="testSumJava8" classname="com.kodilla.Kodilla18XITestSuite" time="0.004"/>
+  <testcase name="testCountLength3UsingJava8" classname="com.kodilla.Kodilla18XITestSuite" time="0.007"/>
+  <testcase name="testMinJava8" classname="com.kodilla.Kodilla18XITestSuite" time="0.002"/>
+  <testcase name="testCountEmptyStringUsingJava8" classname="com.kodilla.Kodilla18XITestSuite" time="0.001"/>
+  <testcase name="testSquaresJava8" classname="com.kodilla.Kodilla18XITestSuite" time="0.013"/>
+  <testcase name="testMaxJava8" classname="com.kodilla.Kodilla18XITestSuite" time="0.002"/>
+  <testcase name="testDeleteEmptyStringsUsingJava8" classname="com.kodilla.Kodilla18XITestSuite" time="0.001"/>
+  <testcase name="testMergedStringUsingJava8" classname="com.kodilla.Kodilla18XITestSuite" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
